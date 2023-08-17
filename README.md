@@ -2,7 +2,7 @@
 Pengalaman Belajar di Bangkit Academy
 --
 
-17 Agustus 2023
+**17 Agustus 2023** <br>
 Belajar Studi Kasus Pengalaman Belajar 21%
 
 *Apa Yang Dipelajari :*
@@ -14,7 +14,7 @@ Belajar Studi Kasus Pengalaman Belajar 21%
 - MElihat History Perubahan
 - Merilis Dokumentasi Pengalaman Belajar
 
-15 Juni 2021 <br>
+**15 Juni 2021** <br>
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
 
   * Belajar dasar-dasar Java, seperti struktur dasar, tipe data, string, operator, input output, dan array.
