@@ -1,7 +1,7 @@
 # PengalamanBelajar
 Pengalaman Belajar di Bangkit Academy
 --
-
+// jadi bold
 **17 Agustus 2023** <br>
 Belajar Studi Kasus Pengalaman Belajar 21%
 
